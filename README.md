@@ -11,7 +11,7 @@
 
 - <b>Python</b>
   - [Password Policy Checker](https://github.com/acivic3/Password-Policy-Checker)
-
+  - [House Cleaning Cost Calculator](https://github.com/acivic3/House-Cleaning-Cost-Calculator)
 
 <h2>Connect with me:</h2>
 
