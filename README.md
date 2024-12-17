@@ -10,7 +10,7 @@
 <h2>Coding Projects:</h2>
 
 - <b>Python</b>
-  - [Example 1](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Policy Checker](https://github.com/acivic3/Password-Policy-Checker)
 
 
 <h2>Connect with me:</h2>
